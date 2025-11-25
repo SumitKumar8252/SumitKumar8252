@@ -14,6 +14,11 @@ From frontend UI to backend architecture — I enjoy the complete development pr
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=sk497623&style=for-the-badge)
+
+
+---
+
 ### 🔗 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/sumit-kumar-1412-sk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
