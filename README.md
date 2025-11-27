@@ -3,14 +3,16 @@
 
 ---
 
-### 🚀 About Me  
-I’m a passionate and dedicated MERN stack learner who loves building clean, functional, and scalable web apps.  
-From frontend UI to backend architecture — I enjoy the complete development process.
+### ⭐ About Me
 
-- 🌱 I’m currently learning **React, Node.js, Express & MongoDB**
-- 💼 I build projects to strengthen my full-stack skills  
-- 👨‍💻 All my projects are available here: **(add your portfolio link)**  
-- 📫 How to reach me: **(sk497623@gmail.com)**  
+I’m an enthusiastic MERN stack developer who enjoys building meaningful digital experiences. I’ve spent time learning the core technologies of full-stack development, and now I’m focused on turning that knowledge into production-ready projects.
+My goal is simple: create clean, efficient, and scalable applications that solve real problems.
+
+- 🌱 Continuously growing with **React, Node.js, Express & MongoDB**, and modern web practices
+- 🚀 Working on **full-stack projects** that strengthen my architecture, **UI/UX**, and **backend logic**
+- 🧩 Passionate about writing clean code, exploring new technologies, and improving every day  
+- 📂 Explore my work here: (**https://portfolio-sumitkr.vercel.app/**)
+- 📫 Let’s connect: **sk497623@gmail.com**
 
 ---
 
@@ -41,6 +43,14 @@ From frontend UI to backend architecture — I enjoy the complete development pr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodemon/nodemon-original.svg" alt="nodemon" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+
+
 </p>
 
 ---
