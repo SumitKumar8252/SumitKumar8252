@@ -26,11 +26,11 @@ My goal is simple: create clean, efficient, and scalable applications that solve
 <h3 align="center">⚙️ Languages, Frameworks & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,ts,mongodb,firebase,tailwind,git,github,redux,redis,figma,postman,vercel,npm,bootstrap,materialui,vscode&perline=8&theme=light" width="92%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,ts,mongodb,firebase,tailwind,git,github,redux,redis,figma,postman,vercel,npm,bootstrap,materialui,vscode&perline=8&theme=light" width="72%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
 </p>
 
 ---
