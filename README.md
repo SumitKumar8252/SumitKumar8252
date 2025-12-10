@@ -16,11 +16,6 @@ My goal is simple: create clean, efficient, and scalable applications that solve
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=sk497623&style=for-the-badge)
-
-
----
-
 ## 🛠️ Tech Stack  
 
 <h3 align="center">⚙️ Languages, Frameworks & Tools</h3>
@@ -42,6 +37,12 @@ My goal is simple: create clean, efficient, and scalable applications that solve
 - 💡 Passionate about solving real-world challenges  
 
 ---
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=sk497623&style=for-the-badge)
+
+---
+
 
 ## 🌐 Connect with Me  
 
