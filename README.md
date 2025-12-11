@@ -3,17 +3,30 @@
 
 ---
 
-### ⭐ About Me
+## 👨‍💻 About Me
+I’m an enthusiastic **MERN** stack developer who enjoys building meaningful digital experiences. I’ve spent time learning the core technologies of full-stack development, and now I’m **focused** on turning that knowledge into production-ready projects. My goal is simple: create clean, efficient, and scalable applications that solve real problems.
 
-I’m an enthusiastic MERN stack developer who enjoys building meaningful digital experiences. I’ve spent time learning the core technologies of full-stack development, and now I’m focused on turning that knowledge into production-ready projects.
-My goal is simple: create clean, efficient, and scalable applications that solve real problems.
+---
 
-- 🌱 Continuously growing with **React, Node.js, Express & MongoDB**, and modern web practices
-- 🚀 Working on **full-stack projects** that strengthen my architecture, **UI/UX**, and **backend logic**
-- 🧩 Passionate about writing clean code, exploring new technologies, and improving every day  
-- 📂 Explore my work here: (**https://portfolio-sumitkr.vercel.app/**)
-- 📫 Let’s connect: **sk497623@gmail.com**
+### 💡 What Drives Me
+- 🌱 Constantly growing with **React, Node.js, Express, MongoDB**, and modern web best practices  
+- 🚀 Building full-stack projects that sharpen my architecture, backend logic, and UI/UX thinking  
+- 🧩 Obsessed with clean code, performance, and learning cutting-edge technologies  
+- 🔍 Always exploring new tools, patterns, and ways to improve
 
+---
+
+## 📂 Want to see my work?
+👉 **Portfolio:** https://portfolio-sumitkr.vercel.app/
+
+----
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumit-kumar-1412-sk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sk497623@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sk497623/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  
 ---
 
 ## 🛠️ Tech Stack  
@@ -40,17 +53,6 @@ My goal is simple: create clean, efficient, and scalable applications that solve
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sk497623&style=for-the-badge)
-
----
-
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sumit-kumar-1412-sk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sk497623@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sk497623/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  
 
 ---
 
