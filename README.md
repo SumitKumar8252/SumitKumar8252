@@ -8,11 +8,19 @@ I’m an enthusiastic **MERN** stack developer who enjoys building meaningful di
 
 ---
 
-### 💡 What Drives Me
-- 🌱 Constantly growing with **React, Node.js, Express, MongoDB**, and modern web best practices  
-- 🚀 Building full-stack projects that sharpen my architecture, backend logic, and UI/UX thinking  
-- 🧩 Obsessed with clean code, performance, and learning cutting-edge technologies  
+### 🚀 What I'm Currently Doing
+- 🌱 Constantly growing with **React, Node.js, Express, MongoDB**, and modern web best practices 
+- 🚀 Improving my full-stack workflow with real, production-style projects  
 - 🔍 Always exploring new tools, patterns, and ways to improve
+- 🧪 Experimenting with new UI patterns and user-centered designs  
+- 📈 Growing everyday as a developer through constant learning
+
+---
+
+### 🌟 My Goals
+- Build applications that actually *help* people  
+- Contribute to open-source projects  
+- Become a developer who writes readable, maintainable, and scalable code  
 
 ---
 
