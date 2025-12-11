@@ -42,7 +42,7 @@ I’m an enthusiastic **MERN** stack developer who enjoys building meaningful di
 <h3 align="center">⚙️ Languages, Frameworks & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,ts,mongodb,firebase,tailwind,git,github,redux,redis,figma,postman,vercel,npm,bootstrap,materialui,vscode&perline=8&theme=light" width="72%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,ts,mongodb,firebase,tailwind,git,github,redux,redis,figma,postman,vercel,npm,bootstrap,materialui,vscode&perline=8&theme=light" width="60%" />
 </p>
 
 <p align="center">
