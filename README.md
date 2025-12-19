@@ -50,6 +50,14 @@ I’m an enthusiastic **MERN** stack developer who enjoys building meaningful di
   <br/><br/>
 
   <!-- Project 2 -->
+  <a href="https://food-order-tomato.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Food%20Ordering%20App-Visit%20Site-FF3D00?style=for-the-badge&logo=security&logoColor=white" />
+  </a>
+  <br/>
+  <sub>🍔 A food ordering app, with add to cart features, payment. and clean UI</sub>
+  <br/><br/>
+
+  <!-- Project 3 -->
   <a href="https://think-n-do.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/To--Do%20App-Visit%20Site-2962FF?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
@@ -57,12 +65,6 @@ I’m an enthusiastic **MERN** stack developer who enjoys building meaningful di
   <sub>📝 A simple and efficient task management app with add, update, delete, and progress tracking.</sub>
   <br/><br/>
 
-  <!-- Project 3 -->
-  <a href="https://react-password-generator-vvhj.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Password%20Generator-Visit%20Site-FF3D00?style=for-the-badge&logo=security&logoColor=white" />
-  </a>
-  <br/>
-  <sub>🔐 A secure and customizable password generator supporting length, symbols, numbers, and more.</sub>
 
 </p>
 
