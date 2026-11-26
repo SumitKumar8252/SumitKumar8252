@@ -66,15 +66,42 @@ I enjoy solving real-world problems, writing maintainable code, and continuously
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Projects  
 
-<!-- Keep your existing project showcase and descriptions here unchanged. -->
+<p align="center">
 
----
+  <!-- Project 1 -->
+  <a href="https://chat-arena.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20App-Visit%20Site-00C853?style=for-the-badge&logo=wechat&logoColor=white" />
+  </a>
+  <br/>
+  <sub>💬 A real-time chat application with multiple rooms, live user updates, and a clean UI.</sub>
+  <br/><br/>
+
+  <!-- Project 2 -->
+  <a href="https://food-order-tomato.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Food%20Ordering%20App-Visit%20Site-FF3D00?style=for-the-badge&logo=security&logoColor=white" />
+  </a>
+  <br/>
+  <sub>🍔 A food ordering app, with add to cart features, payment. and clean UI</sub>
+  <br/><br/>
+
+  <!-- Project 3 -->
+  <a href="https://think-n-do.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/To--Do%20App-Visit%20Site-2962FF?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <br/>
+  <sub>📝 A simple and efficient task management app with add, update, delete, and progress tracking.</sub>
+  <br/><br/>
+
+
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="85%" />
 </p>
+
+---
 
 ## 🛠️ Tech Stack
 
