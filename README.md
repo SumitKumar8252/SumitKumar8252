@@ -108,7 +108,7 @@ I enjoy solving real-world problems, writing maintainable code, and continuously
 <h3 align="center">⚙️ Languages, Frameworks & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,prisma,redis,firebase,tailwind,bootstrap,redux,docker,nginx,git,github,figma,postman,vercel&perline=8&theme=light" width="80%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,prisma,redis,firebase,tailwind,bootstrap,redux,docker,nginx,git,github,figma,postman,aws,vercel&perline=8&theme=light" width="80%" />
 </p>
 
 ---
